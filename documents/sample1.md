@@ -1,6 +1,5 @@
 # sample1
 
-## 画像挿入
 ![](images/sample_image_1.jpg)
 
 ## 箇条書きリスト

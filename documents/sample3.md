@@ -1,6 +1,5 @@
 # sample3
 
-## 画像挿入
 ![](images/sample_image_3.jpg)
 
 ## 斜体

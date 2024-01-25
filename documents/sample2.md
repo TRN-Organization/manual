@@ -1,6 +1,5 @@
 # sample2
 
-## 画像挿入
 ![](images/sample_image_2.jpg)
 
 ## 引用表示
